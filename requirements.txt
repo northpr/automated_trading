@@ -6,7 +6,6 @@ attrs==22.1.0
 backcall==0.2.0
 beautifulsoup4==4.11.1
 bleach==5.0.1
-certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_05nm_gqf36/croots/recipe/certifi_1663615689491/work/certifi
 cffi==1.15.1
 charset-normalizer==2.1.1
 contourpy==1.0.5
